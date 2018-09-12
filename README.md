@@ -2,7 +2,26 @@
 
 Control my ledstrip using the FastLED library.
 
-Listen to serial port, change effect.
+The program listens on the serial port, using the java webclient you can change the lighting effect.
+
+I started this project december 2015. A new ledstrip should replace the current lightstrip (which has a few broken lightbulbs)
+that was on the house when we bought it.
+
+Current status: _**Work In Progress**_
+
+Everything is functional. I can run the java webclient on a Raspberry Pi and change the lighting effect from my phone or tablet
+_(the webinterface on the RasPi is accessible on the home network via WiFi)_. 
+
+Still to do:
+* Mount the ledstrip to the house
+* Using 2 or 3 power adapters I have to add extra cables along the ledstrip to power each individual strip
+* Make a box for the poweradapters and the Raspberry Pi
+* Enhance the webclient (automatic mode to change effects on special dates like christmas or halloween).
+* Enhance the arduino module
+* Use a smaller Arduino? (using the Mega is probably overkill)
+
+The main program/starting point: **LedControl.cpp** 
+
 
 ## My ledstrips
 
