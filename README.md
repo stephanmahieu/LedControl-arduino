@@ -55,10 +55,10 @@ To allow synchronous data transmission, the SPI bus uses four wires. They are ca
     Data  Rood  - 51 MOSI
     
 ## Links
-https://www.arduino.cc/en/Reference/HomePage
-http://tronixstuff.com/2011/05/13/tutorial-arduino-and-the-spi-bus/
-https://www.arduino.cc/en/Hacking/PinMapping2560
-https://www.arduino.cc/en/uploads/Hacking/PinMap2560big.png
+https://www.arduino.cc/en/Reference/HomePage  
+http://tronixstuff.com/2011/05/13/tutorial-arduino-and-the-spi-bus/  
+https://www.arduino.cc/en/Hacking/PinMapping2560  
+https://www.arduino.cc/en/uploads/Hacking/PinMap2560big.png  
 
 ## Atmel Studio
 
